@@ -1,6 +1,6 @@
 To run the code, go to the file path and run main.py. 
 You will be promted to input some text to transcribe. 
-If left blank, it will default toto the example given. 
+If left blank, it will default to the example given. 
 
 Some assumptions I made:
 * There can only be one "Number n" in the text. Any further occurences will be assumed to be part of a list. For example:
